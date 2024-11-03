@@ -41,9 +41,8 @@ source env/bin/activate  # Linux/Mac
 
 <h2 id="estrutura-do-projeto">Estrutura do Projeto</h2>
 <ul>
-    <li><code>data/</code>: Contém os dados brutos e pré-processados.</li>
-    <li><code>notebooks/</code>: Notebooks Jupyter para exploração, análise e modelagem.</li>
-    <li><code>src/</code>: Scripts com funções utilitárias e algoritmos de Machine Learning.</li>
+    <li><code>dados/</code>: Contém os dados brutos e pré-processados.</li>
+    <li><code>previsao_de_fraude_e_churn.ipynb/</code>: Notebooks Jupyter para exploração, análise e modelagem.</li>
     <li><code>requirements.txt</code>: Arquivo com dependências necessárias para executar o projeto.</li>
 </ul>
 
